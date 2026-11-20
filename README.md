@@ -75,6 +75,4 @@ The notebooks run top to bottom with no extra setup. They were executed with Pyt
 
 Python, pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn.
 
-## About
 
-Built by **[Your Name]**. [LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:you@example.com)
